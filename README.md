@@ -1,5 +1,5 @@
 # vue-base
-Note: This boilerplat comes with:
+Note: This boiler-plate comes with:
 - Tailwincss
 - Vuex
 - Vue-router
