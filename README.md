@@ -1,5 +1,9 @@
 # vue-base
-
+Note: This boilerplat comes with:
+- Tailwincss
+- Vuex
+- Vue-router
+- Vue-in18
 ## Project setup
 ```
 npm install

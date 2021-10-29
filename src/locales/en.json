@@ -1,0 +1,7 @@
+{
+  "message": "hello i18n !!",
+  "gettings": {
+    "morning": "Hi good morning",
+    "evning": "Hi good evening"
+  }
+}
