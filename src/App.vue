@@ -1,12 +1,21 @@
 <template>
   <div id="app">
     <div id="nav">
+      <LocalLang />
       <router-link :to="`/${$i18n.locale}`">Home</router-link> |
       <router-link :to="`/${$i18n.locale}/about`">About</router-link>
     </div>
     <router-view />
   </div>
 </template>
+<script>
+import LocalLang from "@/components/LocalLang.vue";
+export default {
+  components: {
+    LocalLang,
+  },
+};
+</script>
 
 <style>
 #app {
